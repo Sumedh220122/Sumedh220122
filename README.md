@@ -5,7 +5,13 @@
 
 - 🌱 I’m currently learning **Generative AI, Deep learning and Image processing**
 
+- 👯 I’m looking to collaborate on **Machine Learning, Deep learning and Image processing projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Sumedh220122/Sumedh](https://github.com/Sumedh220122/Sumedh)
+
 - 💬 Ask me about **Machine learning**
+
+- 📫 How to reach me **sumedhjk22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
