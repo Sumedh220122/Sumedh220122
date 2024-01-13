@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-planet-nebula-banner-background-image_259525.jpg)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Sumedh R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
