@@ -1,3 +1,4 @@
+[![MasterHead](https://www.wallpaperup.com/uploads/wallpapers/2015/04/24/670042/7d0229c98d4d3b73aa7801bbbe951571.jpg)]
 <h1 align="center">Hi 👋, I'm Sumedh R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
