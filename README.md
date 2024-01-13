@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumedh220122&label=Profile%20views&color=0e75b6&style=flat" alt="sumedh220122" /> </p>
 
+- 🔭 I’m currently working on **Machine Learning, Deep learning and Image processing projects**
+  
 - 🌱 I’m currently learning **Generative AI, Deep learning and Image processing**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep learning and Image processing projects**
