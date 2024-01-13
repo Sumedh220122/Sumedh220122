@@ -1,4 +1,5 @@
 ![MasterHead](https://pbs.twimg.com/media/EmsiAodWEAAFFc-?format=jpg&name=large)
+<img src = "https://cdn3.vectorstock.com/i/1000x1000/01/92/coding-concept-on-black-vector-15270192.jpg" align = "right" width = "400">
 <h1 align="center">Hi 👋, I'm Sumedh R</h1>
 <h3 align="center">A ML enthusiast from india</h3>
 
