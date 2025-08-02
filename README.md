@@ -19,4 +19,6 @@
 <a href="=https://leetcode.com/sumedh_r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sumedh_r/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p>Languages known: C, C++, Java, Python, TypeScript, JavaScript, R</p>
+<p>Softwares and platforms: Docker, Kubernetes, AWS, MongoDB, Postgres, MySQL, Linux</p>
+<p>Frameworks: React.js, Node.js, Express.js, Tailwindcss, Jest, Pytest, Tensorflow, Pytorch</p>
