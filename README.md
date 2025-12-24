@@ -1,5 +1,5 @@
-![MasterHead](https://pbs.twimg.com/media/EmsiAodWEAAFFc-?format=jpg&name=large)
 <!-- <img src = "https://cdn3.vectorstock.com/i/1000x1000/01/92/coding-concept-on-black-vector-15270192.jpg" align = "right" width = "400">
+![MasterHead](https://pbs.twimg.com/media/EmsiAodWEAAFFc-?format=jpg&name=large)
 <h1 align="center">Hi 👋, I'm Sumedh R</h1>
 
 - 🔭 I’m currently working on **Machine Learning, Deep learning and Full Stack** projects
