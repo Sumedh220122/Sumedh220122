@@ -1,5 +1,5 @@
 ![MasterHead](https://pbs.twimg.com/media/EmsiAodWEAAFFc-?format=jpg&name=large)
-<img src = "https://cdn3.vectorstock.com/i/1000x1000/01/92/coding-concept-on-black-vector-15270192.jpg" align = "right" width = "400">
+<!-- <img src = "https://cdn3.vectorstock.com/i/1000x1000/01/92/coding-concept-on-black-vector-15270192.jpg" align = "right" width = "400">
 <h1 align="center">Hi 👋, I'm Sumedh R</h1>
 
 - 🔭 I’m currently working on **Machine Learning, Deep learning and Full Stack** projects
@@ -21,4 +21,6 @@
 
 <p>Languages known: C, C++, Java, Python, TypeScript, JavaScript, R</p>
 <p>Softwares and platforms: Docker, Kubernetes, AWS, MongoDB, Postgres, MySQL, Linux</p>
-<p>Frameworks: React.js, Node.js, Express.js, Tailwindcss, Jest, Pytest, Tensorflow, Pytorch</p>
+<p>Frameworks: React.js, Node.js, Express.js, Tailwindcss, Jest, Pytest, Tensorflow, Pytorch</p> -->
+
+Hi There!!
